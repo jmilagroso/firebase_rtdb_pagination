@@ -4,6 +4,9 @@ firebase\_rtdb\_pagination - Firebase RealtimeDB Pagination
 Paginate Firebase RealtimeDB records using cursor pagination.
 
 |PyPI version|
+|Downloads|
+
+
 
 Overview
 --------
@@ -212,3 +215,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 .. |PyPI version| image:: https://badge.fury.io/py/firebase-rtdb-pagination.svg
    :target: https://badge.fury.io/py/firebase-rtdb-pagination
+   
+.. |Downloads| image:: https://pepy.tech/badge/firebase-rtdb-pagination
+   :target: https://pepy.tech/project/firebase-rtdb-pagination
